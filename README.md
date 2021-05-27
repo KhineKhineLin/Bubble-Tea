@@ -1,4 +1,4 @@
-# bubble_tea
+# Bubble Tea Flutter
 
 A new Flutter project.
 
